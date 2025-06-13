@@ -1,5 +1,5 @@
 {
-  "name": "com.stex2005.dexteroushandpackage",
+  "name": "com.github.stex2005.handpackage",
   "version": "1.0.0",
   "displayName": "Dexterous Hand Package",
   "description": "Simple package to visualize and animate a 5 digits hand.",
