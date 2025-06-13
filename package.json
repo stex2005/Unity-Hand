@@ -1,0 +1,18 @@
+{
+  "name": "com.stex2005.dexteroushandpackage",
+  "version": "1.0.0",
+  "displayName": "Dexterous Hand Package",
+  "description": "Simple package to visualize and animate a 5 digits hand.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Stefano Dalla Gasperina",
+    "email": "stefano@dallagasperina.it",
+    "url": "https://www.dallagasperina.it"
+  },
+  "keywords": [
+    "unity",
+    "hand",
+    "telemanipulation"
+  ],
+  "license": "MIT"
+}
